@@ -1,7 +1,7 @@
 <div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&height=300&color=0:57b9c5,100:00e5a0&text=Fengbao%20Li&textBg=false&desc=FRONTEND%20SPECIALIST%20┇%20FULLSTACK%20DEVELOPER%20┇%20ARCHITECT&descSize=26&descAlignY=54&fontAlignY=30&section=header&fontColor=fff&animation=fadeIn" />
+  <img src="https://capsule-render.vercel.app/api?type=waving&height=300&color=0:57b9c5,100:00e5a0&text=Fengbao+Li&textBg=false&desc=FRONTEND+SPECIALIST+┇+FULLSTACK+DEVELOPER+┇+ARCHITECT&descSize=26&descAlignY=54&fontAlignY=30&section=header&fontColor=fff&animation=fadeIn" />
 
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=20&pause=1200&color=00E5A0&center=true&vCenter=true&width=600&lines=Pursue%20excellence,%20and%20success%20will%20follow.;Simplicity%20is%20the%20soul%20of%20efficiency.;Clean%20code%20reads%20like%20well-written%20prose.;Make%20it%20work,%20make%20it%20right,%20make%20it%20fast.;Good%20code%20is%20for%20humans." />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=20&pause=1200&color=00E5A0&center=true&vCenter=true&width=600&lines=Pursue+excellence,+and+success+will+follow.;Simplicity+is+the+soul+of+efficiency.;Clean+code+reads+like+well-written+prose.;If+it's+not+tested,+it's+broken.;Make+it+work,+make+it+right,+make+it+fast.;Don't+repeat+yourself.;Good+code+is+for+humans." />
 
   <br />
   <br />
