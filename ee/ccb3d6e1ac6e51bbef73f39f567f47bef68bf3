@@ -1,0 +1,20 @@
+README3.md
+  s_90a454ac4ddc55::t_af75ee7d503606 75
+  s_90a454ac4ddc55::t_837910227dd425 20-74
+---
+{
+  "schema_version": "authorship/3.0.0",
+  "git_ai_version": "1.7.0",
+  "base_commit_sha": "eeccb3d6e1ac6e51bbef73f39f567f47bef68bf3",
+  "prompts": {},
+  "sessions": {
+    "s_90a454ac4ddc55": {
+      "agent_id": {
+        "tool": "github-copilot",
+        "id": "805e60d0-8371-4c11-b0b5-d59a217f5e88",
+        "model": "customendpoint/Nous/deepseek/deepseek-v4-flash-0731"
+      },
+      "human_author": "Fengbao Li <shijistar@gmail.com>"
+    }
+  }
+}
