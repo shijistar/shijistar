@@ -1,10 +1,6 @@
 <div align="center">
 
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://capsule-render.vercel.app/api?type=waving&height=300&color=0:57b9c5,100:00e5a0&text=Fengbao%20Li1&textBg=false&desc=FRONTEND%20SPECIALIST┆FULLSTACK%20DEVELOPER┆ARCHITECT&descSize=26&descAlignY=54&fontAlignY=30&section=header&fontColor=fff&animation=fadeIn" />
-  <source media="(prefers-color-scheme: light)" srcset="https://capsule-render.vercel.app/api?type=waving&height=300&color=0:57b9c5,100:00e5a0&text=Fengbao%20Li2&textBg=false&desc=FRONTEND%20SPECIALIST┆FULLSTACK%20DEVELOPER┆ARCHITECT&descSize=26&descAlignY=54&fontAlignY=30&section=header&fontColor=fff&animation=fadeIn" />
-  <img alt="readme-header" src="https://capsule-render.vercel.app/api?type=waving&height=300&color=0:57b9c5,100:00e5a0&text=Fengbao%20Li&textBg=false&desc=FRONTEND%20SPECIALIST┆FULLSTACK%20DEVELOPER┆ARCHITECT&descSize=26&descAlignY=54&fontAlignY=30&section=header&fontColor=fff&animation=fadeIn" />
-</picture>
+<img src="https://capsule-render.vercel.app/api?type=waving&height=300&color=0:57b9c5,100:00e5a0&text=Fengbao%20Li&textBg=false&desc=FRONTEND%20SPECIALIST┆FULLSTACK%20DEVELOPER┆ARCHITECT&descSize=26&descAlignY=54&fontAlignY=30&section=header&fontColor=fff&animation=fadeIn" />
 
 [![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&size=20&pause=1200&color=00E5A0&center=true&vCenter=true&width=600&lines=Pursue%20excellence,%20and%20success%20will%20follow.;Simplicity%20is%20the%20soul%20of%20efficiency.;Clean%20code%20reads%20like%20well-written%20prose.;Make%20it%20work,%20make%20it%20right,%20make%20it%20fast.;Good%20code%20is%20for%20humans.)](https://git.io/typing-svg)
 
@@ -45,7 +41,14 @@
 <div align="center">
 
 <img height="155" src="https://github-readme-stats.vercel.app/api?username=shijistar&show_icons=true&theme=github_dark&hide_border=true&bg_color=0d1117&title_color=00e5a0&icon_color=00e5a0&text_color=8b949e" />
-<img height="155" src="https://github-readme-stats.vercel.app/api/top-langs/?username=shijistar&layout=compact&theme=github_dark&hide_border=true&bg_color=0d1117&title_color=00e5a0&text_color=8b949e&langs_count=6" />
+
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-stats.vercel.app/api?username=shijistar&show_icons=true&theme=github_dark&hide_border=true&bg_color=0d1117&title_color=00e5a0&icon_color=00e5a0&text_color=8b949e" />
+  <source media="(prefers-color-scheme: light)" srcset="https://github-readme-stats.vercel.app/api?username=shijistar&show_icons=true&theme=github_dark&hide_border=true&bg_color=0d1117&title_color=00e5a0&icon_color=00e5a0&text_color=8b949e" />
+  <img alt="github-snake" src="https://github-readme-stats.vercel.app/api?username=shijistar&show_icons=true&theme=github_dark&hide_border=true&bg_color=0d1117&title_color=00e5a0&icon_color=00e5a0&text_color=8b949e" />
+</picture>
+
+<!-- <img height="155" src="https://github-readme-stats.vercel.app/api/top-langs/?username=shijistar&layout=compact&theme=github_dark&hide_border=true&bg_color=0d1117&title_color=00e5a0&text_color=8b949e&langs_count=6" /> -->
 
 [![streak](https://streak-stats.demolab.com/?user=shijistar&theme=github-dark-blue&hide_border=true&background=0d1117&ring=00e5a0&fire=ff6b35&currStreakLabel=00e5a0)](https://git.io/streak-stats)
 
