@@ -1,0 +1,19 @@
+README3.md
+  h_99cad05bea77d1 44-51
+  h_99cad05bea77d1 3
+.github/workflows/snake.yml
+  h_99cad05bea77d1 41
+.github/workflows/streak-stats.yml
+  h_99cad05bea77d1 1-47
+---
+{
+  "schema_version": "authorship/3.0.0",
+  "git_ai_version": "1.7.0",
+  "base_commit_sha": "e8a3598b14285446eb5361d41d01833383caa806",
+  "prompts": {},
+  "humans": {
+    "h_99cad05bea77d1": {
+      "author": "Fengbao Li <shijistar@gmail.com>"
+    }
+  }
+}
