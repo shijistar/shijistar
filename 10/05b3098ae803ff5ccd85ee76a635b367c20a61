@@ -1,0 +1,22 @@
+README2.md
+  h_99cad05bea77d1 1-3,4
+footer.svg
+  h_99cad05bea77d1 1-309
+README3.md
+  h_99cad05bea77d1 1,2,3-4,5,6,7,8,9,10-15,16-56
+header.svg
+  h_99cad05bea77d1 1-145
+skills.svg
+  h_99cad05bea77d1 1-120
+---
+{
+  "schema_version": "authorship/3.0.0",
+  "git_ai_version": "1.6.23",
+  "base_commit_sha": "1005b3098ae803ff5ccd85ee76a635b367c20a61",
+  "prompts": {},
+  "humans": {
+    "h_99cad05bea77d1": {
+      "author": "Fengbao Li <shijistar@gmail.com>"
+    }
+  }
+}
