@@ -1,5 +1,5 @@
 <div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&height=300&color=0:57b9c5,100:00e5a0&text=Fengbao+Li&textBg=false&desc=FRONTEND+SPECIALIST+┇+FULLSTACK+DEVELOPER+┇+ARCHITECT&descSize=26&descAlignY=54&fontAlignY=30&section=header&fontColor=fff&animation=fadeIn" />
+  <img src="https://capsule-render.vercel.app/api?type=waving&height=300&color=0:57b9c5,100:00e5a0&text=Fengbao+Li&fontSize=50&textBg=false&desc=FRONTEND+SPECIALIST+%E2%94%87+FULLSTACK+DEVELOPER+%E2%94%87+ARCHITECT&descSize=20&descAlignY=54&fontAlignY=30&section=header&fontColor=fff&animation=fadeIn" />
 
   <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=20&pause=1200&color=00E5A0&center=true&vCenter=true&width=600&lines=Pursue+excellence,+and+success+will+follow.;Simplicity+is+the+soul+of+efficiency.;Clean+code+reads+like+well-written+prose.;If+it's+not+tested,+it's+broken.;Make+it+work,+make+it+right,+make+it+fast.;Don't+repeat+yourself.;Good+code+is+for+humans." />
 
@@ -91,7 +91,7 @@
 
 <div align="center">
 
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:57b9c5,100:00e5a0&height=80&section=footer&height=200" />
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:00e5a0,100:57b9c5&height=80&section=footer&height=200" />
 
 <br />
 <br />
