@@ -1,0 +1,28 @@
+README3.md
+  h_99cad05bea77d1 22-28,33
+README2.md
+  h_99cad05bea77d1 3
+assets/skills.svg
+  s_90a454ac4ddc55::t_dd1a1f13136f0b 1-120
+---
+{
+  "schema_version": "authorship/3.0.0",
+  "git_ai_version": "1.7.0",
+  "base_commit_sha": "ba323925ee95f7cff330c08f37c50b5f90e70073",
+  "prompts": {},
+  "humans": {
+    "h_99cad05bea77d1": {
+      "author": "Fengbao Li <shijistar@gmail.com>"
+    }
+  },
+  "sessions": {
+    "s_90a454ac4ddc55": {
+      "agent_id": {
+        "tool": "github-copilot",
+        "id": "805e60d0-8371-4c11-b0b5-d59a217f5e88",
+        "model": "unknown"
+      },
+      "human_author": "Fengbao Li <shijistar@gmail.com>"
+    }
+  }
+}
