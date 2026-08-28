@@ -1,0 +1,14 @@
+README.md
+  h_99cad05bea77d1 101-103
+---
+{
+  "schema_version": "authorship/3.0.0",
+  "git_ai_version": "1.7.0",
+  "base_commit_sha": "0141763200b835e0a2aba3d9a07dc4e2e9084546",
+  "prompts": {},
+  "humans": {
+    "h_99cad05bea77d1": {
+      "author": "Fengbao Li <shijistar@gmail.com>"
+    }
+  }
+}
