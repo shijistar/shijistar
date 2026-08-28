@@ -42,15 +42,15 @@
 
 <img height="155" src="https://github-readme-stats.vercel.app/api?username=shijistar&show_icons=true&theme=github_dark&hide_border=true&bg_color=0d1117&title_color=00e5a0&icon_color=00e5a0&text_color=8b949e" />
 
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-stats.vercel.app/api?username=shijistar&show_icons=true&theme=github_dark&hide_border=true&bg_color=0d1117&title_color=00e5a0&icon_color=00e5a0&text_color=8b949e" />
-  <source media="(prefers-color-scheme: light)" srcset="https://github-readme-stats.vercel.app/api?username=shijistar&show_icons=true&theme=github_dark&hide_border=true&bg_color=0d1117&title_color=00e5a0&icon_color=00e5a0&text_color=8b949e" />
-  <img alt="github-snake" src="https://github-readme-stats.vercel.app/api?username=shijistar&show_icons=true&theme=github_dark&hide_border=true&bg_color=0d1117&title_color=00e5a0&icon_color=00e5a0&text_color=8b949e" />
-</picture>
-
 <!-- <img height="155" src="https://github-readme-stats.vercel.app/api/top-langs/?username=shijistar&layout=compact&theme=github_dark&hide_border=true&bg_color=0d1117&title_color=00e5a0&text_color=8b949e&langs_count=6" /> -->
 
 [![streak](https://streak-stats.demolab.com/?user=shijistar&theme=github-dark-blue&hide_border=true&background=0d1117&ring=00e5a0&fire=ff6b35&currStreakLabel=00e5a0)](https://git.io/streak-stats)
+
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="./assets/streak/shijistar-github-dark.svg" />
+  <source media="(prefers-color-scheme: light)" srcset="./assets/streak/shijistar-vue.svg" />
+  <img alt="github-streak" src="./assets/streak/shijistar-vue.svg" />
+</picture>
 
 </div>
 
