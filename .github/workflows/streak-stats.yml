@@ -20,21 +20,21 @@ jobs:
       - name: Generate streak stats with default theme
         uses: DenverCoder1/github-readme-streak-stats@main
         with:
-          options: user=${{ github.repository_owner }}&theme=default
+          options: user=${{ github.repository_owner }}&theme=default&card_width=854
           path: assets/streak/shijistar-default.svg
           token: ${{ secrets.GITHUB_TOKEN }}
 
       - name: Generate streak stats with github-dark theme
         uses: DenverCoder1/github-readme-streak-stats@main
         with:
-          options: user=${{ github.repository_owner }}&theme=github-dark
+          options: user=${{ github.repository_owner }}&theme=github-dark&card_width=854
           path: assets/streak/shijistar-github-dark.svg
           token: ${{ secrets.GITHUB_TOKEN }}
 
       - name: Generate streak stats with vue theme
         uses: DenverCoder1/github-readme-streak-stats@main
         with:
-          options: user=${{ github.repository_owner }}&theme=vue
+          options: user=${{ github.repository_owner }}&theme=vue&card_width=854
           path: assets/streak/shijistar-vue.svg
           token: ${{ secrets.GITHUB_TOKEN }}
 
