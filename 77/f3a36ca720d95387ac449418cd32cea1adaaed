@@ -1,0 +1,21 @@
+README3.md
+  h_99cad05bea77d1 2,3-7,11-12,14-15,17-18,17-19,21
+  h_99cad05bea77d1 13,16,20
+.github/workflows/snake.yml
+  h_99cad05bea77d1 33-40
+dist/github-contribution-grid-snake-dark.svg
+  h_99cad05bea77d1 1
+dist/github-contribution-grid-snake.svg
+  h_99cad05bea77d1 1
+---
+{
+  "schema_version": "authorship/3.0.0",
+  "git_ai_version": "1.7.0",
+  "base_commit_sha": "77f3a36ca720d95387ac449418cd32cea1adaaed",
+  "prompts": {},
+  "humans": {
+    "h_99cad05bea77d1": {
+      "author": "Fengbao Li <shijistar@gmail.com>"
+    }
+  }
+}
