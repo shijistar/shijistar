@@ -1,0 +1,14 @@
+.github/workflows/snake.yml
+  h_99cad05bea77d1 24,33-48
+---
+{
+  "schema_version": "authorship/3.0.0",
+  "git_ai_version": "1.7.0",
+  "base_commit_sha": "4ae65c4e84fecd322b41e1e32c785271b6058ece",
+  "prompts": {},
+  "humans": {
+    "h_99cad05bea77d1": {
+      "author": "Fengbao Li <shijistar@gmail.com>"
+    }
+  }
+}
