@@ -64,7 +64,7 @@
 ### Featured Repos
 
 - **[enum-plus](https://github.com/shijistar/enum-plus)** — A drop-in replacement for TypeScript enum, acting as a solution for business dictionary management.
-- **[swagger-typescript-api](https://github.com/shijistar/swagger-typescript-api)** — A simple tool to generate TypeScript APIs from Swagger/OpenAPI specifications.
+- **[swagger-api-hub](https://github.com/shijistar/swagger-api-hub)** — A simple tool to generate TypeScript APIs from Swagger/OpenAPI specifications.
 - **[jsoneo](https://github.com/shijistar/jsoneo)** — A powerful JSON enhancement library that serialize/deserialize almost everything in JavaScript.
 - **[react-easy](https://github.com/shijistar/react-easy)** — A collection of easy-to-use React components/hooks/utils for general UI patterns.
 - **[code-style-all-in-one](https://github.com/shijistar/code-style-all-in-one)** — An all-in-one code style solution providing popular eslint, prettier, and stylelint configurations, along with husky, lint-staged, and commitlint.
