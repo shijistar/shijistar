@@ -1,0 +1,14 @@
+.github/workflows/streak-stats.yml
+  h_99cad05bea77d1 34,38
+---
+{
+  "schema_version": "authorship/3.0.0",
+  "git_ai_version": "1.7.0",
+  "base_commit_sha": "5d004e8bf12c33cdccc74c40c8a6b37a4d4df9b7",
+  "prompts": {},
+  "humans": {
+    "h_99cad05bea77d1": {
+      "author": "Fengbao Li <shijistar@gmail.com>"
+    }
+  }
+}
