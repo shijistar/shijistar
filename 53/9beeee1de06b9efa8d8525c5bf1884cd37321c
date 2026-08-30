@@ -1,0 +1,14 @@
+assets/sentences-light.svg
+  h_99cad05bea77d1 18,27,36,45,54,63,72
+---
+{
+  "schema_version": "authorship/3.0.0",
+  "git_ai_version": "1.7.0",
+  "base_commit_sha": "539beeee1de06b9efa8d8525c5bf1884cd37321c",
+  "prompts": {},
+  "humans": {
+    "h_99cad05bea77d1": {
+      "author": "Fengbao Li <shijistar@gmail.com>"
+    }
+  }
+}
