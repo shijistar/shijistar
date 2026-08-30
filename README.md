@@ -2,9 +2,9 @@
 <div align="center">
   <!-- Banner -->
   <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="https://capsule-render.vercel.app/api?type=waving&height=300&color=0:57b9c5%2C100:00e5a0&text=Fengbao+Li&fontSize=50&textBg=false&desc=FRONTEND+SPECIALIST+%E2%94%87+FULLSTACK+DEVELOPER+%E2%94%87+ARCHITECT&descSize=20&descAlignY=54&fontAlignY=30&section=header&fontColor=fff&animation=fadeIn" />
-    <source media="(prefers-color-scheme: light)" srcset="https://capsule-render.vercel.app/api?type=waving&height=300&color=0:57b9c5%2C100:00e5a0&text=Fengbao+Li&fontSize=50&textBg=false&desc=FRONTEND+SPECIALIST+%E2%94%87+FULLSTACK+DEVELOPER+%E2%94%87+ARCHITECT&descSize=20&descAlignY=54&fontAlignY=30&section=header&fontColor=0f766e&animation=fadeIn" />
-    <img alt="banner" src="https://capsule-render.vercel.app/api?type=waving&height=300&color=0:57b9c5%2C100:00e5a0&text=Fengbao+Li&fontSize=50&textBg=false&desc=FRONTEND+SPECIALIST+%E2%94%87+FULLSTACK+DEVELOPER+%E2%94%87+ARCHITECT&descSize=20&descAlignY=54&fontAlignY=30&section=header&fontColor=0f766e&animation=fadeIn" />
+    <source media="(prefers-color-scheme: dark)" srcset="https://capsule-render.vercel.app/api?type=waving&height=300&color=0:57b9c5%2C100:00e5a0&text=Fengbao+Li&fontSize=50&textBg=false&desc=FULLSTACK+DEVELOPER+%E2%94%87+FRONTEND+SPECIALIST+%E2%94%87+ARCHITECT&descSize=20&descAlignY=54&fontAlignY=30&section=header&fontColor=fff&animation=fadeIn" />
+    <source media="(prefers-color-scheme: light)" srcset="https://capsule-render.vercel.app/api?type=waving&height=300&color=0:57b9c5%2C100:00e5a0&text=Fengbao+Li&fontSize=50&textBg=false&desc=FULLSTACK+DEVELOPER+%E2%94%87+FRONTEND+SPECIALIST+%E2%94%87+ARCHITECT&descSize=20&descAlignY=54&fontAlignY=30&section=header&fontColor=0f766e&animation=fadeIn" />
+    <img alt="banner" src="https://capsule-render.vercel.app/api?type=waving&height=300&color=0:57b9c5%2C100:00e5a0&text=Fengbao+Li&fontSize=50&textBg=false&desc=FULLSTACK+DEVELOPER+%E2%94%87+FRONTEND+SPECIALIST+%E2%94%87+ARCHITECT&descSize=20&descAlignY=54&fontAlignY=30&section=header&fontColor=0f766e&animation=fadeIn" />
   </picture>
 
   <!-- Sentences -->
