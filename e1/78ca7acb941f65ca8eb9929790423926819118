@@ -1,0 +1,18 @@
+README.md
+  h_99cad05bea77d1 5-7
+assets/banner-dark.svg
+  h_99cad05bea77d1 1-49
+assets/banner-light.svg
+  h_99cad05bea77d1 1-49
+---
+{
+  "schema_version": "authorship/3.0.0",
+  "git_ai_version": "1.7.0",
+  "base_commit_sha": "e178ca7acb941f65ca8eb9929790423926819118",
+  "prompts": {},
+  "humans": {
+    "h_99cad05bea77d1": {
+      "author": "Fengbao Li <shijistar@gmail.com>"
+    }
+  }
+}
