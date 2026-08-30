@@ -9,9 +9,9 @@
 
   <!-- Sentences -->
   <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=20&pause=1200&color=00E5A0&center=true&vCenter=true&width=854&lines=Pursue+excellence%2C+and+success+will+follow.;Simplicity+is+the+soul+of+efficiency.;Clean+code+reads+like+well-written+prose.;If+it's+not+tested%2C+it's+broken.;Make+it+work%2C+make+it+right%2C+make+it+fast.;Don't+repeat+yourself.;Good+code+is+for+humans." />
-    <source media="(prefers-color-scheme: light)" srcset="https://readme-typing-svg.demolab.com/?font=Fira+Code&weight=600&size=20&pause=1200&color=00A473FF&center=true&vCenter=true&width=854&lines=Pursue+excellence%2C+and+success+will+follow.;Simplicity+is+the+soul+of+efficiency.;Clean+code+reads+like+well-written+prose.;If+it%27s+not+tested%2C+it%27s+broken.;Make+it+work%2C+make+it+right%2C+make+it+fast.;Don%27t+repeat+yourself.;Good+code+is+for+humans." />
-    <img alt="banner" src="https://readme-typing-svg.demolab.com/?font=Fira+Code&weight=600&size=20&pause=1200&color=00A473FF&center=true&vCenter=true&width=854&lines=Pursue+excellence%2C+and+success+will+follow.;Simplicity+is+the+soul+of+efficiency.;Clean+code+reads+like+well-written+prose.;If+it%27s+not+tested%2C+it%27s+broken.;Make+it+work%2C+make+it+right%2C+make+it+fast.;Don%27t+repeat+yourself.;Good+code+is+for+humans." />
+    <source media="(prefers-color-scheme: dark)" srcset="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=20&pause=1200&color=00E5A0&center=true&vCenter=true&width=600&lines=Pursue+excellence%2C+and+success+will+follow.;Simplicity+is+the+soul+of+efficiency.;Clean+code+reads+like+well-written+prose.;If+it's+not+tested%2C+it's+broken.;Make+it+work%2C+make+it+right%2C+make+it+fast.;Don't+repeat+yourself.;Good+code+is+for+humans." />
+    <source media="(prefers-color-scheme: light)" srcset="https://readme-typing-svg.demolab.com/?font=Fira+Code&weight=600&size=20&pause=1200&color=00A473FF&center=true&vCenter=true&width=600&lines=Pursue+excellence%2C+and+success+will+follow.;Simplicity+is+the+soul+of+efficiency.;Clean+code+reads+like+well-written+prose.;If+it%27s+not+tested%2C+it%27s+broken.;Make+it+work%2C+make+it+right%2C+make+it+fast.;Don%27t+repeat+yourself.;Good+code+is+for+humans." />
+    <img alt="banner" src="https://readme-typing-svg.demolab.com/?font=Fira+Code&weight=600&size=20&pause=1200&color=00A473FF&center=true&vCenter=true&width=600&lines=Pursue+excellence%2C+and+success+will+follow.;Simplicity+is+the+soul+of+efficiency.;Clean+code+reads+like+well-written+prose.;If+it%27s+not+tested%2C+it%27s+broken.;Make+it+work%2C+make+it+right%2C+make+it+fast.;Don%27t+repeat+yourself.;Good+code+is+for+humans." />
   </picture>
 
   <br />
@@ -94,7 +94,7 @@
   <picture>
     <source media="(prefers-color-scheme: dark)" srcset="https://streak-stats.demolab.com?user=shijistar&theme=github-dark&card_width=854" />
     <source media="(prefers-color-scheme: light)" srcset="https://streak-stats.demolab.com?user=shijistar&theme=github-light&card_width=854" />
-    <img alt="github-streak" src="./assets/streak/shijistar-github-light.svg" />
+    <img alt="github-streak" src="https://streak-stats.demolab.com?user=shijistar&theme=github-light&card_width=854" />
   </picture>
   <!-- GitHub Stats -->
   <picture>
