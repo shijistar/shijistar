@@ -1,0 +1,309 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="800" height="180" viewBox="0 0 800 180">
+  <style>
+    .stream-line {
+      animation: streamFlash 10s ease-in-out infinite;
+    }
+
+    .status-dot {
+      animation: statusPulse 10s ease-in-out infinite;
+      transform-box: fill-box;
+      transform-origin: center;
+    }
+
+    .scan {
+      animation: scanDrift 10s linear infinite;
+    }
+
+    .b0 {
+      animation: barPulse 10s ease-in-out infinite;
+      animation-delay: -0.00s;
+    }
+
+    .b1 {
+      animation: barPulse 10s ease-in-out infinite;
+      animation-delay: -6.18s;
+    }
+
+    .b2 {
+      animation: barPulse 10s ease-in-out infinite;
+      animation-delay: -2.36s;
+    }
+
+    .b3 {
+      animation: barPulse 10s ease-in-out infinite;
+      animation-delay: -8.54s;
+    }
+
+    .b4 {
+      animation: barPulse 10s ease-in-out infinite;
+      animation-delay: -4.72s;
+    }
+
+    .b5 {
+      animation: barPulse 10s ease-in-out infinite;
+      animation-delay: -0.90s;
+    }
+
+    .b6 {
+      animation: barPulse 10s ease-in-out infinite;
+      animation-delay: -7.08s;
+    }
+
+    .b7 {
+      animation: barPulse 10s ease-in-out infinite;
+      animation-delay: -3.26s;
+    }
+
+    .b8 {
+      animation: barPulse 10s ease-in-out infinite;
+      animation-delay: -9.44s;
+    }
+
+    .b9 {
+      animation: barPulse 10s ease-in-out infinite;
+      animation-delay: -5.62s;
+    }
+
+    .b10 {
+      animation: barPulse 10s ease-in-out infinite;
+      animation-delay: -1.80s;
+    }
+
+    .b11 {
+      animation: barPulse 10s ease-in-out infinite;
+      animation-delay: -7.98s;
+    }
+
+    .b12 {
+      animation: barPulse 10s ease-in-out infinite;
+      animation-delay: -4.16s;
+    }
+
+    .b13 {
+      animation: barPulse 10s ease-in-out infinite;
+      animation-delay: -0.34s;
+    }
+
+    .b14 {
+      animation: barPulse 10s ease-in-out infinite;
+      animation-delay: -6.52s;
+    }
+
+    .b15 {
+      animation: barPulse 10s ease-in-out infinite;
+      animation-delay: -2.71s;
+    }
+
+    .b16 {
+      animation: barPulse 10s ease-in-out infinite;
+      animation-delay: -8.89s;
+    }
+
+    .b17 {
+      animation: barPulse 10s ease-in-out infinite;
+      animation-delay: -5.07s;
+    }
+
+    .b18 {
+      animation: barPulse 10s ease-in-out infinite;
+      animation-delay: -1.25s;
+    }
+
+    .b19 {
+      animation: barPulse 10s ease-in-out infinite;
+      animation-delay: -7.43s;
+    }
+
+    .b20 {
+      animation: barPulse 10s ease-in-out infinite;
+      animation-delay: -3.61s;
+    }
+
+    .b21 {
+      animation: barPulse 10s ease-in-out infinite;
+      animation-delay: -9.79s;
+    }
+
+    .b22 {
+      animation: barPulse 10s ease-in-out infinite;
+      animation-delay: -5.97s;
+    }
+
+    .b23 {
+      animation: barPulse 10s ease-in-out infinite;
+      animation-delay: -2.15s;
+    }
+
+    .b24 {
+      animation: barPulse 10s ease-in-out infinite;
+      animation-delay: -8.33s;
+    }
+
+    .b25 {
+      animation: barPulse 10s ease-in-out infinite;
+      animation-delay: -4.51s;
+    }
+
+    .b26 {
+      animation: barPulse 10s ease-in-out infinite;
+      animation-delay: -0.69s;
+    }
+
+    .b27 {
+      animation: barPulse 10s ease-in-out infinite;
+      animation-delay: -6.87s;
+    }
+
+    .b28 {
+      animation: barPulse 10s ease-in-out infinite;
+      animation-delay: -3.05s;
+    }
+
+    .b29 {
+      animation: barPulse 10s ease-in-out infinite;
+      animation-delay: -9.23s;
+    }
+
+    .b30 {
+      animation: barPulse 10s ease-in-out infinite;
+      animation-delay: -5.41s;
+    }
+
+    .b31 {
+      animation: barPulse 10s ease-in-out infinite;
+      animation-delay: -1.59s;
+    }
+
+    @keyframes barPulse {
+
+      0%,
+      100% {
+        transform: scaleY(0.4);
+        transform-box: fill-box;
+        transform-origin: bottom;
+      }
+
+      50% {
+        transform: scaleY(1.4);
+        transform-box: fill-box;
+        transform-origin: bottom;
+      }
+    }
+
+    @keyframes streamFlash {
+
+      0%,
+      100% {
+        stroke-opacity: 0.5;
+      }
+
+      50% {
+        stroke-opacity: 0.9;
+      }
+    }
+
+    @keyframes statusPulse {
+
+      0%,
+      70%,
+      100% {
+        opacity: 1;
+        transform: scale(1);
+      }
+
+      80% {
+        opacity: 0.4;
+        transform: scale(0.7);
+      }
+    }
+
+    @keyframes scanDrift {
+      from {
+        transform: translateY(0);
+      }
+
+      to {
+        transform: translateY(8px);
+      }
+    }
+  </style>
+  <defs>
+    <linearGradient id="neon-foot-bg" x1="0" y1="0" x2="0" y2="1">
+      <stop offset="0%" stop-color="#2990ff" stop-opacity="0.08" />
+      <stop offset="50%" stop-color="#0a0118" />
+      <stop offset="100%" stop-color="#0a0118" />
+    </linearGradient>
+    <pattern id="scan-foot" x="0" y="0" width="4" height="4" patternUnits="userSpaceOnUse">
+      <rect width="4" height="2" fill="#ffffff" fill-opacity="0.025" />
+    </pattern>
+  </defs>
+
+  <rect width="100%" height="100%" fill="url(#neon-foot-bg)" rx="14" ry="14" />
+
+  <!-- Top hairline divider, glowing -->
+  <line class="stream-line" x1="40" y1="6" x2="760" y2="6" stroke="#2990ff" stroke-width="1" stroke-opacity="0.6" filter="drop-shadow(0 0 4px #2990ff)" />
+
+  <!-- Header strip: status pill on left, frame counter on right -->
+  <g class="header-pill" transform="translate(40 22)">
+    <rect x="-8" y="-12" width="118" height="20" rx="4" fill="#0a0118" stroke="#22e8ec" stroke-width="1" stroke-opacity="0.6" />
+    <circle class="status-dot" cx="2" cy="-2" r="2.5" fill="#22e8ec" filter="drop-shadow(0 0 3px #22e8ec)" />
+    <text x="12" y="2" fill="#22e8ec" font-family="ui-monospace, monospace" font-size="10" letter-spacing="1.5">CONNECTED</text>
+  </g>
+
+  <!-- Big "// END_TRANSMISSION" header -->
+  <text class="tx" x="400" y="65" text-anchor="middle" fill="#fde7ff" font-family="ui-monospace, monospace" font-size="20" font-weight="700" letter-spacing="2" filter="drop-shadow(0 0 6px #2990ff)">// END_TRANSMISSION</text>
+
+  <!-- Tagline / sign-off subline -->
+  <text class="tag-line" x="400" y="93" text-anchor="middle" fill="#22e8ec" font-family="ui-monospace, monospace" font-size="13" letter-spacing="1">Pursue excellence, and success will follow!</text>
+
+  <!-- Socials row, alternating cyan/magenta -->
+  <g transform="translate(318 113)" class="soc sf0">
+    <g transform="translate(0 -7)"><svg viewBox="0 0 24 24" width="14" height="14" fill="none" stroke="#2990ff" stroke-width="2" stroke-linecap="round" stroke-linejoin="round">
+        <path d="M15 22v-4a4.8 4.8 0 0 0-1-3.5c3 0 6-2 6-5.5.08-1.25-.27-2.48-1-3.5.28-1.15.28-2.35 0-3.5 0 0-1 0-3 1.5-2.64-.5-5.36-.5-8 0C6 2 5 2 5 2c-.3 1.15-.3 2.35 0 3.5A5.403 5.403 0 0 0 4 9c0 3.5 3 5.5 6 5.5-.39.49-.68 1.05-.85 1.65-.17.6-.22 1.23-.15 1.85v4" />
+        <path d="M9 18c-4.51 2-5-2-7-2" />
+      </svg></g>
+    <text x="20" y="0" fill="#2990ff" font-family="ui-monospace, monospace" font-size="12" dominant-baseline="middle" letter-spacing="0.5">github.com/shijistar</text>
+  </g>
+
+  <!-- Data-stream bars (spectrum-analyzer style) -->
+  <rect class="bar b0" x="114" y="149" width="14" height="3" fill="#2990ff" fill-opacity="0.5" filter="drop-shadow(0 0 2px #2990ff)" />
+  <rect class="bar b1" x="132" y="140" width="14" height="12" fill="#22e8ec" fill-opacity="0.5" filter="drop-shadow(0 0 2px #22e8ec)" />
+  <rect class="bar b2" x="150" y="146" width="14" height="6" fill="#22e8ec" fill-opacity="0.5" filter="drop-shadow(0 0 2px #22e8ec)" />
+  <rect class="bar b3" x="168" y="137" width="14" height="15" fill="#2990ff" fill-opacity="0.5" filter="drop-shadow(0 0 2px #2990ff)" />
+  <rect class="bar b4" x="186" y="142" width="14" height="10" fill="#22e8ec" fill-opacity="0.5" filter="drop-shadow(0 0 2px #22e8ec)" />
+  <rect class="bar b5" x="204" y="148" width="14" height="4" fill="#22e8ec" fill-opacity="0.5" filter="drop-shadow(0 0 2px #22e8ec)" />
+  <rect class="bar b6" x="222" y="139" width="14" height="13" fill="#2990ff" fill-opacity="0.5" filter="drop-shadow(0 0 2px #2990ff)" />
+  <rect class="bar b7" x="240" y="144" width="14" height="8" fill="#22e8ec" fill-opacity="0.5" filter="drop-shadow(0 0 2px #22e8ec)" />
+  <rect class="bar b8" x="258" y="136" width="14" height="16" fill="#22e8ec" fill-opacity="0.5" filter="drop-shadow(0 0 2px #22e8ec)" />
+  <rect class="bar b9" x="276" y="141" width="14" height="11" fill="#2990ff" fill-opacity="0.5" filter="drop-shadow(0 0 2px #2990ff)" />
+  <rect class="bar b10" x="294" y="146" width="14" height="6" fill="#22e8ec" fill-opacity="0.5" filter="drop-shadow(0 0 2px #22e8ec)" />
+  <rect class="bar b11" x="312" y="138" width="14" height="14" fill="#22e8ec" fill-opacity="0.5" filter="drop-shadow(0 0 2px #22e8ec)" />
+  <rect class="bar b12" x="330" y="143" width="14" height="9" fill="#2990ff" fill-opacity="0.5" filter="drop-shadow(0 0 2px #2990ff)" />
+  <rect class="bar b13" x="348" y="149" width="14" height="3" fill="#22e8ec" fill-opacity="0.5" filter="drop-shadow(0 0 2px #22e8ec)" />
+  <rect class="bar b14" x="366" y="140" width="14" height="12" fill="#22e8ec" fill-opacity="0.5" filter="drop-shadow(0 0 2px #22e8ec)" />
+  <rect class="bar b15" x="384" y="145" width="14" height="7" fill="#2990ff" fill-opacity="0.5" filter="drop-shadow(0 0 2px #2990ff)" />
+  <rect class="bar b16" x="402" y="137" width="14" height="15" fill="#22e8ec" fill-opacity="0.5" filter="drop-shadow(0 0 2px #22e8ec)" />
+  <rect class="bar b17" x="420" y="142" width="14" height="10" fill="#22e8ec" fill-opacity="0.5" filter="drop-shadow(0 0 2px #22e8ec)" />
+  <rect class="bar b18" x="438" y="147" width="14" height="5" fill="#2990ff" fill-opacity="0.5" filter="drop-shadow(0 0 2px #2990ff)" />
+  <rect class="bar b19" x="456" y="139" width="14" height="13" fill="#22e8ec" fill-opacity="0.5" filter="drop-shadow(0 0 2px #22e8ec)" />
+  <rect class="bar b20" x="474" y="144" width="14" height="8" fill="#22e8ec" fill-opacity="0.5" filter="drop-shadow(0 0 2px #22e8ec)" />
+  <rect class="bar b21" x="492" y="135" width="14" height="17" fill="#2990ff" fill-opacity="0.5" filter="drop-shadow(0 0 2px #2990ff)" />
+  <rect class="bar b22" x="510" y="141" width="14" height="11" fill="#22e8ec" fill-opacity="0.5" filter="drop-shadow(0 0 2px #22e8ec)" />
+  <rect class="bar b23" x="528" y="146" width="14" height="6" fill="#22e8ec" fill-opacity="0.5" filter="drop-shadow(0 0 2px #22e8ec)" />
+  <rect class="bar b24" x="546" y="137" width="14" height="15" fill="#2990ff" fill-opacity="0.5" filter="drop-shadow(0 0 2px #2990ff)" />
+  <rect class="bar b25" x="564" y="143" width="14" height="9" fill="#22e8ec" fill-opacity="0.5" filter="drop-shadow(0 0 2px #22e8ec)" />
+  <rect class="bar b26" x="582" y="148" width="14" height="4" fill="#22e8ec" fill-opacity="0.5" filter="drop-shadow(0 0 2px #22e8ec)" />
+  <rect class="bar b27" x="600" y="139" width="14" height="13" fill="#2990ff" fill-opacity="0.5" filter="drop-shadow(0 0 2px #2990ff)" />
+  <rect class="bar b28" x="618" y="145" width="14" height="7" fill="#22e8ec" fill-opacity="0.5" filter="drop-shadow(0 0 2px #22e8ec)" />
+  <rect class="bar b29" x="636" y="136" width="14" height="16" fill="#22e8ec" fill-opacity="0.5" filter="drop-shadow(0 0 2px #22e8ec)" />
+  <rect class="bar b30" x="654" y="141" width="14" height="11" fill="#2990ff" fill-opacity="0.5" filter="drop-shadow(0 0 2px #2990ff)" />
+  <rect class="bar b31" x="672" y="147" width="14" height="5" fill="#22e8ec" fill-opacity="0.5" filter="drop-shadow(0 0 2px #22e8ec)" />
+
+  <!-- Bottom watermark, very faint -->
+  <text x="782" y="172" text-anchor="end" fill="#22e8ec" fill-opacity="0.35" font-family="ui-monospace, monospace" font-size="9" letter-spacing="1">// MADE WITH RYME.MD</text>
+
+  <!-- Scanlines overlay -->
+  <g class="scan">
+    <rect width="800" height="188" fill="url(#scan-foot)" pointer-events="none" />
+  </g>
+</svg>

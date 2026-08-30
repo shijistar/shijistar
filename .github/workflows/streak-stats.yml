@@ -31,11 +31,11 @@ jobs:
           path: assets/streak/shijistar-github-dark.svg
           token: ${{ secrets.GITHUB_TOKEN }}
 
-      - name: Generate streak stats with vue theme
+      - name: Generate streak stats with github-light theme
         uses: DenverCoder1/github-readme-streak-stats@main
         with:
-          options: user=${{ github.repository_owner }}&theme=vue&card_width=854
-          path: assets/streak/shijistar-vue.svg
+          options: user=${{ github.repository_owner }}&theme=github-light&card_width=854
+          path: assets/streak/shijistar-github-light.svg
           token: ${{ secrets.GITHUB_TOKEN }}
 
       - name: Commit streak stats

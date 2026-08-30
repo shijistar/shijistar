@@ -1,12 +1,23 @@
 <div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&height=300&color=0:57b9c5,100:00e5a0&text=Fengbao+Li&fontSize=50&textBg=false&desc=FRONTEND+SPECIALIST+%E2%94%87+FULLSTACK+DEVELOPER+%E2%94%87+ARCHITECT&descSize=20&descAlignY=54&fontAlignY=30&section=header&fontColor=fff&animation=fadeIn" />
+  <!-- Banner -->
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="./assets/banner-dark.svg" data-origin="https://capsule-render.vercel.app/api?type=waving&height=300&color=0:57b9c5,100:00e5a0&text=Fengbao+Li&fontSize=50&textBg=false&desc=FRONTEND+SPECIALIST+%E2%94%87+FULLSTACK+DEVELOPER+%E2%94%87+ARCHITECT&descSize=20&descAlignY=54&fontAlignY=30&section=header&fontColor=fff&animation=fadeIn" />
+    <source media="(prefers-color-scheme: light)" srcset="./assets/banner-light.svg" data-origin="https://capsule-render.vercel.app/api?type=waving&height=300&color=0:57b9c5,100:00e5a0&text=Fengbao+Li&fontSize=50&textBg=false&desc=FRONTEND+SPECIALIST+%E2%94%87+FULLSTACK+DEVELOPER+%E2%94%87+ARCHITECT&descSize=20&descAlignY=54&fontAlignY=30&section=header&fontColor=0f766e&animation=fadeIn" />
+    <img alt="banner" src="./assets/banner.svg" />
+  </picture>
 
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=20&pause=1200&color=00E5A0&center=true&vCenter=true&width=600&lines=Pursue+excellence,+and+success+will+follow.;Simplicity+is+the+soul+of+efficiency.;Clean+code+reads+like+well-written+prose.;If+it's+not+tested,+it's+broken.;Make+it+work,+make+it+right,+make+it+fast.;Don't+repeat+yourself.;Good+code+is+for+humans." />
+  <!-- Sentences -->
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="./assets/sentences-dark.svg" data-origin="https://readme-typing-svg.demolab.com?font=Fira+Code&size=20&pause=1200&color=00E5A0&center=true&vCenter=true&width=600&lines=Pursue+excellence,+and+success+will+follow.;Simplicity+is+the+soul+of+efficiency.;Clean+code+reads+like+well-written+prose.;If+it's+not+tested,+it's+broken.;Make+it+work,+make+it+right,+make+it+fast.;Don't+repeat+yourself.;Good+code+is+for+humans." />
+    <source media="(prefers-color-scheme: light)" srcset="./assets/sentences-light.svg" data-origin="https://readme-typing-svg.demolab.com/?font=Fira+Code&size=20&pause=1200&color=00A473FF&center=true&vCenter=true&width=600&lines=Pursue+excellence,+and+success+will+follow.;Simplicity+is+the+soul+of+efficiency.;Clean+code+reads+like+well-written+prose.;If+it%27s+not+tested,+it%27s+broken.;Make+it+work,+make+it+right,+make+it+fast.;Don%27t+repeat+yourself.;Good+code+is+for+humans." />
+    <img alt="banner" src="./assets/sentences-light.svg" />
+  </picture>
 
   <br />
   <br />
   <br />
 
+  <!-- Skills -->
   <picture>
     <source media="(prefers-color-scheme: dark)" srcset="https://img.shields.io/badge/TYPESCRIPT-60a5fa?style=for-the-badge" />
     <source media="(prefers-color-scheme: light)" srcset="https://img.shields.io/badge/TYPESCRIPT-1d4ed8?style=for-the-badge" />
@@ -63,35 +74,40 @@
 
 ### Featured Repos
 
-- **[enum-plus](https://github.com/shijistar/enum-plus)** - A drop-in replacement for TypeScript enum, acting as a solution for business dictionary management.
-- **[swagger-api-hub](https://github.com/shijistar/swagger-api-hub)** - A simple tool to generate TypeScript APIs from Swagger/OpenAPI specifications.
-- **[jsoneo](https://github.com/shijistar/jsoneo)** - A powerful JSON enhancement library that serialize/deserialize almost everything in JavaScript.
-- **[react-easy](https://github.com/shijistar/react-easy)** - A collection of easy-to-use React components/hooks/utils for general UI patterns.
+- **[enum-plus](https://github.com/shijistar/enum-plus)** — A drop-in replacement for TypeScript enum, acting as a solution for business dictionary management.
+- **[swagger-api-hub](https://github.com/shijistar/swagger-api-hub)** — A simple tool to generate TypeScript APIs from Swagger/OpenAPI specifications.
+- **[jsoneo](https://github.com/shijistar/jsoneo)** — A powerful JSON enhancement library that serialize/deserialize almost everything in JavaScript.
+- **[react-easy](https://github.com/shijistar/react-easy)** — A collection of easy-to-use React components/hooks/utils for general UI patterns.
 - **[code-style-all-in-one](https://github.com/shijistar/code-style-all-in-one)** — An all-in-one code style solution providing popular eslint, prettier, and stylelint configurations, along with husky, lint-staged, and commitlint.
 
 ---
 
+<!-- Contribution Grid Snake -->
 <div align="center">
   <picture>
     <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/shijistar/shijistar/snake/github-contribution-grid-snake-dark.svg" />
     <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/shijistar/shijistar/snake/github-contribution-grid-snake.svg" />
     <img alt="github-snake" src="https://raw.githubusercontent.com/shijistar/shijistar/snake/github-contribution-grid-snake.svg" />
   </picture>
+  <!-- Github Streak -->
   <picture>
     <source media="(prefers-color-scheme: dark)" srcset="./assets/streak/shijistar-github-dark.svg" />
-    <source media="(prefers-color-scheme: light)" srcset="./assets/streak/shijistar-vue.svg" />
-    <img alt="github-streak" src="./assets/streak/shijistar-vue.svg" />
+    <source media="(prefers-color-scheme: light)" srcset="./assets/streak/shijistar-github-light.svg" />
+    <img alt="github-streak" src="./assets/streak/shijistar-github-light.svg" />
   </picture>
+  <!-- GitHub Stats -->
   <picture>
     <source media="(prefers-color-scheme: dark)" srcset="https://ryme-7ap.pages.dev/api/render/neon-github-stats?u=shijistar&bg=020803&fg=ffffff&accent=5cffde&muted=18c3fb&dur=10" />
-    <source media="(prefers-color-scheme: light)" srcset="https://ryme-7ap.pages.dev/api/render/neon-github-stats?u=shijistar&bg=e5fbff&fg=292929&accent=169c8d&muted=00699e&dur=10" />
-    <img alt="github-streak" src="https://ryme-7ap.pages.dev/api/render/neon-github-stats?u=shijistar&bg=e5fbff&fg=292929&accent=169c8d&muted=00699e&dur=10" />
+    <source media="(prefers-color-scheme: light)" srcset="https://ryme-7ap.pages.dev/api/render/neon-github-stats?u=shijistar&bg=e5fbff&fg=0f766e&accent=169c8d&muted=00699e&dur=10" />
+    <img alt="github-streak" src="https://ryme-7ap.pages.dev/api/render/neon-github-stats?u=shijistar&bg=e5fbff&fg=0f766e&accent=169c8d&muted=00699e&dur=10" />
   </picture>
 </div>
 
+<!-- Footer -->
 <div align="center">
-
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:00e5a0,100:57b9c5&height=80&section=footer&height=200" />
+<img 
+  src="./assets/footer.svg"
+  data-origin="https://capsule-render.vercel.app/api?type=waving&color=0:00e5a0,100:57b9c5&height=80&section=footer&height=200" />
 
 <br />
 <br />
