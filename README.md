@@ -1,16 +1,17 @@
+<!-- Note: do not use relative paths because Github App doesn't support them -->
 <div align="center">
   <!-- Banner -->
   <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="./assets/banner-dark.svg" data-origin="https://capsule-render.vercel.app/api?type=waving&height=300&color=0:57b9c5,100:00e5a0&text=Fengbao+Li&fontSize=50&textBg=false&desc=FRONTEND+SPECIALIST+%E2%94%87+FULLSTACK+DEVELOPER+%E2%94%87+ARCHITECT&descSize=20&descAlignY=54&fontAlignY=30&section=header&fontColor=fff&animation=fadeIn" />
-    <source media="(prefers-color-scheme: light)" srcset="./assets/banner-light.svg" data-origin="https://capsule-render.vercel.app/api?type=waving&height=300&color=0:57b9c5,100:00e5a0&text=Fengbao+Li&fontSize=50&textBg=false&desc=FRONTEND+SPECIALIST+%E2%94%87+FULLSTACK+DEVELOPER+%E2%94%87+ARCHITECT&descSize=20&descAlignY=54&fontAlignY=30&section=header&fontColor=0f766e&animation=fadeIn" />
-    <img alt="banner" src="./assets/banner.svg" />
+    <source media="(prefers-color-scheme: dark)" srcset="https://capsule-render.vercel.app/api?type=waving&height=300&color=0:57b9c5,100:00e5a0&text=Fengbao+Li&fontSize=50&textBg=false&desc=FRONTEND+SPECIALIST+%E2%94%87+FULLSTACK+DEVELOPER+%E2%94%87+ARCHITECT&descSize=20&descAlignY=54&fontAlignY=30&section=header&fontColor=fff&animation=fadeIn" />
+    <source media="(prefers-color-scheme: light)" srcset="https://capsule-render.vercel.app/api?type=waving&height=300&color=0:57b9c5,100:00e5a0&text=Fengbao+Li&fontSize=50&textBg=false&desc=FRONTEND+SPECIALIST+%E2%94%87+FULLSTACK+DEVELOPER+%E2%94%87+ARCHITECT&descSize=20&descAlignY=54&fontAlignY=30&section=header&fontColor=0f766e&animation=fadeIn" />
+    <img alt="banner" src="https://capsule-render.vercel.app/api?type=waving&height=300&color=0:57b9c5,100:00e5a0&text=Fengbao+Li&fontSize=50&textBg=false&desc=FRONTEND+SPECIALIST+%E2%94%87+FULLSTACK+DEVELOPER+%E2%94%87+ARCHITECT&descSize=20&descAlignY=54&fontAlignY=30&section=header&fontColor=0f766e&animation=fadeIn" />
   </picture>
 
   <!-- Sentences -->
   <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="./assets/sentences-dark.svg" data-origin="https://readme-typing-svg.demolab.com?font=Fira+Code&size=20&pause=1200&color=00E5A0&center=true&vCenter=true&width=600&lines=Pursue+excellence,+and+success+will+follow.;Simplicity+is+the+soul+of+efficiency.;Clean+code+reads+like+well-written+prose.;If+it's+not+tested,+it's+broken.;Make+it+work,+make+it+right,+make+it+fast.;Don't+repeat+yourself.;Good+code+is+for+humans." />
-    <source media="(prefers-color-scheme: light)" srcset="./assets/sentences-light.svg" data-origin="https://readme-typing-svg.demolab.com/?font=Fira+Code&size=20&pause=1200&color=00A473FF&center=true&vCenter=true&width=600&lines=Pursue+excellence,+and+success+will+follow.;Simplicity+is+the+soul+of+efficiency.;Clean+code+reads+like+well-written+prose.;If+it%27s+not+tested,+it%27s+broken.;Make+it+work,+make+it+right,+make+it+fast.;Don%27t+repeat+yourself.;Good+code+is+for+humans." />
-    <img alt="banner" src="./assets/sentences-light.svg" />
+    <source media="(prefers-color-scheme: dark)" srcset="https://readme-typing-svg.demolab.com?font=Fira+Code&size=20&pause=1200&color=00E5A0&center=true&vCenter=true&width=600&lines=Pursue+excellence,+and+success+will+follow.;Simplicity+is+the+soul+of+efficiency.;Clean+code+reads+like+well-written+prose.;If+it's+not+tested,+it's+broken.;Make+it+work,+make+it+right,+make+it+fast.;Don't+repeat+yourself.;Good+code+is+for+humans." />
+    <source media="(prefers-color-scheme: light)" srcset="https://readme-typing-svg.demolab.com/?font=Fira+Code&size=20&pause=1200&color=00A473FF&center=true&vCenter=true&width=600&lines=Pursue+excellence,+and+success+will+follow.;Simplicity+is+the+soul+of%2Befficiency.;Clean+code+reads+like+well-written+prose.;If+it%27s+not+tested,+it%27s+broken.;Make+it+work,+make+it+right,+make+it+fast.;Don%27t+repeat%2Byourself.;Good+code+is+%2Bfor%2Bhumans." />
+    <img alt="banner" src="https://readme-typing-svg.demolab.com/?font=Fira+Code&size=20&pause=1200&color=00A473FF&center=true&vCenter=true&width=600&lines=Pursue+excellence,+and+success+will+follow.;Simplicity+is+the+soul+of%2Befficiency.;Clean+code+reads+like+well-written+prose.;If+it%27s+not+tested,+it%27s+broken.;Make+it+work,+make+it+right,+make+it+fast.;Don%27t+repeat%2Byourself.;Good+code+is+%2Bfor%2Bhumans." />
   </picture>
 
   <br />
@@ -91,9 +92,9 @@
   </picture>
   <!-- Github Streak -->
   <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="./assets/streak/shijistar-github-dark.svg" />
-    <source media="(prefers-color-scheme: light)" srcset="./assets/streak/shijistar-github-light.svg" />
-    <img alt="github-streak" src="./assets/streak/shijistar-github-light.svg" />
+    <source media="(prefers-color-scheme: dark)" srcset="https://streak-stats.demolab.com?user=shijistar&theme=github-dark&card_width=854" />
+    <source media="(prefers-color-scheme: light)" srcset="https://streak-stats.demolab.com?user=shijistar&theme=github-light&card_width=854" />
+    <img alt="github-streak" src="https://streak-stats.demolab.com?user=shijistar&theme=github-light&card_width=854" />
   </picture>
   <!-- GitHub Stats -->
   <picture>
@@ -106,8 +107,7 @@
 <!-- Footer -->
 <div align="center">
 <img 
-  src="./assets/footer.svg"
-  data-origin="https://capsule-render.vercel.app/api?type=waving&color=0:00e5a0,100:57b9c5&height=80&section=footer&height=200" />
+  src="https://capsule-render.vercel.app/api?type=waving&color=0:00e5a0,100:57b9c5&height=80&section=footer&height=200" />
 
 <br />
 <br />
